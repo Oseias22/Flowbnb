@@ -109,7 +109,8 @@ body {
   border-radius: 15px;
 }
 .imagem:hover{
-  box-shadow: 8px 8px 15px 12px rgba(65, 53, 53, 0.25);
+  box-shadow: 8px 8px 15px rgb(48, 48, 46);
+  transition: box-shadow 01s;
 }
 
 .lugares .local {
