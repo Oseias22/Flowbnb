@@ -108,6 +108,9 @@ body {
   height: 261px;
   border-radius: 15px;
 }
+.imagem:hover{
+  box-shadow: 8px 8px 15px 12px rgba(65, 53, 53, 0.25);
+}
 
 .lugares .local {
   font-weight: 800;
